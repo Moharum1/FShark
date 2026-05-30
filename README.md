@@ -1,0 +1,1 @@
+A Project for AI Personal Finance Assistant using ReactJS, Node.js, PostgreSQL, Gemini AI and MongoDB.
